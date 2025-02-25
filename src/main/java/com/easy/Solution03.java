@@ -43,7 +43,7 @@ Sample Case 1: n = 24
 n > 20 and n is even, so it isn't weird. Thus, we print Not Weird. 
 */
 
-package com.aula;
+package com.easy;
 
 import java.util.Scanner;
 

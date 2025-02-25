@@ -21,7 +21,7 @@ Hello, World.
 Hello, Java.
 */
 
-package com.aula;
+package com.easy;
 
 public class Solution01 {
     public static void main(String[] args) {

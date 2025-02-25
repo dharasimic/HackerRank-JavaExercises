@@ -27,7 +27,7 @@ Each String is left-justified with trailing whitespace through the first 15 char
 the 16th character, and each integer that was less than 3 digits now has leading zeroes.
  */
 
-package com.aula;
+package com.easy;
 
 import java.util.Scanner;
 

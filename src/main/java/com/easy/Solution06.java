@@ -31,7 +31,7 @@ Sample Output:
 2 x 10 = 20
  */
 
-package com.aula;
+package com.easy;
 
 import java.util.Scanner;
 
